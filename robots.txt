@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wlsvar.saturadar88.shop/sitemap.xml
